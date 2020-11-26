@@ -1,0 +1,32 @@
+.App {
+  margin: 15vh auto;
+  height: 600px;
+  width: 900px;
+  background-color: #f08a5d;
+  border-radius: 20px; 
+}
+
+.UIcomponent {
+   display: inline-block;
+   padding: 10px;
+   box-sizing:border-box;
+}
+
+.InputDropDownComponent {
+  margin: 2px;
+  width: 30%;
+  
+}
+
+.InputTextComponent {
+  margin: 2px;
+  width: 50%;
+  
+}
+
+.RoundSliderComponent {
+  margin-top: 20px;
+  width: 16%;
+  padding: 30px;
+  float: right;
+}
