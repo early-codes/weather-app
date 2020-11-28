@@ -1,0 +1,23 @@
+.ResultComponent {
+    margin: 5% auto;
+    width: 90%;
+    height: 80%;
+    text-align: center;
+}
+
+.dividerDiv {
+    width:31%;
+    margin: 5% 1%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.temp {
+    position: relative;
+    top: 5%
+}
+
+.wind {
+    position: relative;
+    top: 6%
+}
